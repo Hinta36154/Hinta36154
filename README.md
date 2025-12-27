@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning applied computer science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... ngorokimani@gmail.com 
+- 📫 How to reach me ... grahammaina36154@gmail.com
 
 <!---
 Hinta36154/Hinta36154 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
